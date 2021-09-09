@@ -1,2 +1,2 @@
 # Conteúdo para a OBI
-## [anos anteriores](anos_anteriores)
+## [anos anteriores](./anos_anteriores)
